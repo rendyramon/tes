@@ -1,0 +1,20 @@
+{
+	"redirect": [{
+
+		"status": "0",
+		"link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
+
+		"icon_promote": "https://www.aina-wireless.com/wp-content/uploads/2016/11/AINA-Icon-512-x-512-1.png",
+		"judul_promote": "Promote App Example",
+		"deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+		"gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+		"link_promote": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
+		"status_promote": "0",
+		"onwebbase": "1",
+		"webbase": "https://cinemafilmxxi.com/1/funnyvideonew/",
+		"apikey": "cda11QbXIO9Z4ly0a2khTFDPA3x6UgSVtCiYRjBqpsfL7w5neN",
+		"unduh": "false"
+
+
+	}]
+}
