@@ -1,4 +1,28 @@
 {
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-M",
+		"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+		"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+		"main_ads_intertitial_applovin": "9a5e39a63b89826e",
+		"main_native_for_admob_applovin": "ca-app-pub-3940256099942544/2247696110",
+		"backup_native_for_admob_applovin": "0a854f7f60982fe1",
+		"backup_ads_banner": "db4d5e8718b97d78",
+		"backup_ads_intertitial": "518cd97722c60b52",
+		"interval_intertitial": 2,
+		"initialize_sdk": "107355779",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"matikan_iklan": "0",
+		"link_redirect": "https://"
+
+
+	}],
 
 	"files": [{
 
@@ -46,6 +70,6 @@
 			"version": "Support Version  1.16"
 		}
 
-	]
 
+	]
 }
