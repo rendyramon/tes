@@ -1,0 +1,30 @@
+{
+  "data": {
+    "success": 1,
+    "category": [{
+      "category_id": "10",
+      "name": "Fruit",
+      "image": "https://templatevilla.net/codecanyon/colorbookadmin/admin/uploads/category_1560179221.jpg",
+      "created_at": "1560179221",
+      "is_active": "1"
+    }, {
+      "category_id": "5",
+      "name": "Alphabets",
+      "image": "https://templatevilla.net/codecanyon/colorbookadmin/admin/uploads/category_1588818787.jpeg",
+      "created_at": "1559733178",
+      "is_active": "1"
+    }, {
+      "category_id": "4",
+      "name": "Number",
+      "image": "https://templatevilla.net/codecanyon/colorbookadmin/admin/uploads/category_1559733117.png",
+      "created_at": "1559733118",
+      "is_active": "1"
+    }, {
+      "category_id": "3",
+      "name": "Mandala",
+      "image": "https://templatevilla.net/codecanyon/colorbookadmin/admin/uploads/category_1559564828.png",
+      "created_at": "1536229490",
+      "is_active": "1"
+    }]
+    }
+}
