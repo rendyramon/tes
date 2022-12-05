@@ -1,0 +1,39 @@
+{
+  "Ads":
+  [
+    {
+    "statusapp": "1",
+    "ad_status": "on",
+    "adnetwork": "ADMOB"
+    "appupdate": "com.busmodidtruk.wahyuabadistrobo",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "applovin_banner": "6c4a887d6aed766e",
+    "applovin_inter": "fc5437769b1e9211",
+    "applovin_native": "a31f11b7481e5476",
+    "fan_banner": "6c4a887d6aed766e",
+    "fan_inter": "fc5437769b1e9211",
+    "fan_native": "a31f11b7481e5476",
+    "interval": 2,    
+    "date_time": "2022-12-05 16:21:37"
+ }
+  ],
+
+  "Mod":
+  [
+    {
+      "title":"Mod Wahyu Abadi Full Strobo",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/maxresdefault%20%284%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/3.%20WAHYU%20ABADI.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png"
+    },
+    {
+      "title":"Truck Canter Kalimantan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    }
+  ]
+}
