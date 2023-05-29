@@ -1,0 +1,180 @@
+{ "ADS":
+    {
+  
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-2089662-1",
+      "native_yandex":"R-M-2089662-2",
+      "interstitial_yandex":"R-M-2089662-3",
+      "rewarde_yandex":"R-M-2089662-4",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
+
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://iili.io/Hftj3rJ.jpg",
+      "title": "creepymod mod pack 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/HftjHLF.jpg",
+      "title": "creepymod mod pack 2",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/Hftjdqg.jpg",
+      "title": "creepymod mod pack 3",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://iili.io/Hftj21a.jpg",
+      "title": "creepymod mod pack 4",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/Hftjqep.jpg",
+      "title": "creepymod mod pack 5",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    },
+    {
+      "imageUrl": "https://iili.io/Hftj21a.jpg",
+      "title": "creepymod mod pack 6",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+     
+    },
+    {
+      "imageUrl": "https://iili.io/HftjHLF.jpg",
+      "title": "creepymod mod pack 7",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    }
+  ], "Apps": [
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    { 
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+      
+    }
+    ,{
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    {
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    },
+    {
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    },
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    }
+  ]
+ 
+  }
