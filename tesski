@@ -33,15 +33,15 @@
       "interstitial_admob":"ca-app-pub-3940256099942544/10332",
       "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
-      "applovin_banner":"R-M-DEMO-300x50",
-      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_banner":"6db1491f2e21970c",
+      "applovin_interstitial":"812b82d9e0c7cb7f",
       "applovin_reward":"R-M-DEMO-native-i",
-      "applovin_native":"R-M-DEMO-300x50",
+      "applovin_native":"64ea2f2ef41edb34",
 
-      "facebook_banner":"R-M-DEMO-interstitial",
-      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
       "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"R-M-DEMO-interstitial"
+      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"
 
   
     },
