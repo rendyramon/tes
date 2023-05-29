@@ -7,7 +7,7 @@
       "cpa_url":"yandex",
       "show_cpa":false,
       
-      "interval": 2,
+      "interval": 1,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -32,7 +32,7 @@
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "interstitial_admob":"ca-app-pub-3940256099942544/10331737x",
       "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
       "applovin_banner":"6db1491f2e21970c",
