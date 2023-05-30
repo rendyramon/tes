@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "admob",
+        "BannerAd": "max",
 		"InterstitialAd": "admob",
         "NativeAd": "max",
 		
@@ -37,7 +37,7 @@
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
@@ -50,7 +50,7 @@
 		"setLink": "",
         "image_link": "",
         "text": "Dark Meadow : The Pact",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
