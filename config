@@ -8,7 +8,7 @@
     "admob_n": ["ca-app-pub-3940256099942544/2247696110"],
     "admob_pub": "admob publisher id",
     "admob_r": ["ca-app-pub-3940256099942544/5354046379"],
-    "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
+    "admob_it": ["ca-app-pub-3940256099942544/1033173712", "ca-app-pub-3940256099942544/1033173712"],
     "ironsrc_APP_KEY": "iron source app key",
     "fb_banner": ["IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001"],
     "fb_inter_id": ["IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959"],
