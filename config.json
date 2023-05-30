@@ -9,13 +9,13 @@
     "admob_pub": "admob publisher id",
     "admob_r": ["ca-app-pub-3940256099942544/5354046379"],
     "admob_it": ["ca-app-pub-3940256099942544/1033173712", "ca-app-pub-3940256099942544/1033173712"],
-    "ironsrc_APP_KEY": "iron source app key",
+    "ironsrc_APP_KEY": "64ea2f2ef41edb34",
     "fb_banner": ["IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001"],
     "fb_inter_id": ["IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959"],
     "fb_native": ["IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"],
     "fb_reward": ["R-M-DEMO-300x50"],
 
-      "apploving_reward_id" : "apploving reward id",
+      "apploving_reward_id" : "64ea2f2ef41edb34",
       "apploving_native" : "64ea2f2ef41edb34",
       "apploving_banner" : "6db1491f2e21970c",
       "apploving_inter" : "812b82d9e0c7cb7f",
@@ -31,11 +31,11 @@
       
       "native_ads" : [ "apploving", "admob", "own", "admob","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
       "test" : "false",
-      "unity_app_id" : "unity app id",
+      "unity_app_id" : "64ea2f2ef41edb34",
 
-      "unity_bn_id" : "unity banner id",
-      "unity_it_id" : "unity interstitial id",
-      "unity_r_id" : "unity reward id",
+      "unity_bn_id" : "64ea2f2ef41edb34",
+      "unity_it_id" : "64ea2f2ef41edb34",
+      "unity_r_id" : "64ea2f2ef41edb34",
 
       "you" : 1,
 
