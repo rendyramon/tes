@@ -8,6 +8,9 @@
       "show_cpa":false,
       "backupAds":"applovin",
       "interval": 1,
+      "statusapp": "1",
+      "ad_status":"on",
+      "link_redirect": "",
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -49,78 +52,117 @@
     },
     "skins": [
     {
-      "imageUrl": "https://iili.io/Hftj3rJ.jpg",
-      "title": "creepymod mod pack 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-
-
-      
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/1/1.jpg",
+      "title": "Kokiri Forest",
+      "likeNumbers": "1024 LIKES",
+      "commentNumbers": "33 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Mods for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/1/SpenceOtron.zip"
+             
     },
     {
-      "imageUrl": "https://iili.io/HftjHLF.jpg",
-      "title": "creepymod mod pack 2",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/2/2.jpg",
+      "title": "Bikini Bottom",
+      "likeNumbers": "162 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "20644 DOWNLOADS",
+      "description": "Bikini Bottom mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/2/BikiniBottomSpongeBob.zip"
        
-
-      
     },
     {
-      "imageUrl": "https://iili.io/Hftjdqg.jpg",
-      "title": "creepymod mod pack 3",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/3/2.jpg",
+      "title": "BrickBattle",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Bikini Bottom mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/3/RealisticNoobBrickBattle.zip"
        
-
-      
     }
     ,{
-      "imageUrl": "https://iili.io/Hftj21a.jpg",
-      "title": "creepymod mod pack 4",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-
-
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/4/2.jpg",
+      "title": "Cool Cool Mountain",
+      "likeNumbers": "121 LIKES",
+      "commentNumbers": "20 COMMENTS",
+      "downloadNumbers": "16044 DOWNLOADS",
+      "description": "Bikini Bottom mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/4/CooMountain.zip"
       
     },
     {
-      "imageUrl": "https://iili.io/Hftjqep.jpg",
-      "title": "creepymod mod pack 5",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/5/2.jpg",
+      "title": "End Dimension",
+      "likeNumbers": "52 LIKES",
+      "commentNumbers": "10 COMMENTS",
+      "downloadNumbers": "18744 DOWNLOADS",
+      "description": "Bikini Bottom mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/5/EndDimension.zip"
        
     },
     {
-      "imageUrl": "https://iili.io/Hftj21a.jpg",
-      "title": "creepymod mod pack 6",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/6/2.jpg",
+      "title": "gkz_beginnerblock",
+      "likeNumbers": "60 LIKES",
+      "commentNumbers": " 21 COMMENTS",
+      "downloadNumbers": "8069 DOWNLOADS",
+      "description": "gkz_beginnerblock mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/6/beginnerblock.zip"
      
     },
     {
-      "imageUrl": "https://iili.io/HftjHLF.jpg",
-      "title": "creepymod mod pack 7",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/7/2.jpg",
+      "title": "gt_deadforest",
+      "likeNumbers": "38 LIKES",
+      "commentNumbers": "25 COMMENTS",
+      "downloadNumbers": "16830 DOWNLOADS",
+      "description": "gt_deadforest mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/7/deadforest.zip"
+       
+    },
+    {
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/8/2.jpg",
+      "title": "Lost Woods",
+      "likeNumbers": "28 LIKES",
+      "commentNumbers": "9 COMMENTS",
+      "downloadNumbers": "7698 DOWNLOADS",
+      "description": "Lost Woods mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/8/LostWoods.zip"
+       
+    },
+    {
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/9/2.jpg",
+      "title": "Minecraft New world",
+      "likeNumbers": "113 LIKES",
+      "commentNumbers": "8 COMMENTS",
+      "downloadNumbers": "9876 DOWNLOADS",
+      "description": "Minecraft New world mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/9/MinecraftWorld.zip"
+       
+    },
+    {
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/10/2.jpg",
+      "title": "MonkeTemplMap",
+      "likeNumbers": "26 LIKES",
+      "commentNumbers": "6 COMMENTS",
+      "downloadNumbers": "9967 DOWNLOADS",
+      "description": "MonkeTemplMap mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/10/MonkeTemplMap.zip"
+       
+    },
+    {
+      "imageUrl": "http://modsstudio.xyz/files/GorillaTagMods/11/2.jpg",
+      "title": "MonkeyVille",
+      "likeNumbers": "55 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "6796 DOWNLOADS",
+      "description": "MonkeyVille mod for gorilla tag. here you will find many maps for Gorilla tag vr collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "http://modsstudio.xyz/files/GorillaTagMods/11/MonkeVille.zip"
        
     }
+
+
   ], "Apps": [
     {
       
