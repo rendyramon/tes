@@ -9,7 +9,7 @@
       "backupAds":"applovin",
       "interval": 2,
       "statusapp": "1",
-      "ad_status":"on",
+      "ad_status":"off",
       "link_redirect": "",
       "appupdate": "",
       "bannerOwn": "0",
