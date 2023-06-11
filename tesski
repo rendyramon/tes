@@ -9,10 +9,10 @@
       "backupAds":"applovin",
       "interval": 2,
       "statusapp": "1",
-      "ad_status":"off",
+      "ad_status":"on",
       "link_redirect": "",
       "appupdate": "",
-      "bannerOwn": "0",
+      "bannerOwn": "1",
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -34,16 +34,16 @@
       "interstitial_yandex":"R-M-2089662-3",
       "rewarde_yandex":"R-M-2089662-4",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835xxx",
-      "banner_admob":"ca-app-pub-3940256099942544/6300978xxx",
-      "native_admob":"ca-app-pub-3940256099942544/2247696xxx",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173xxx",
-      "rewarde_admob":"ca-app-pub-3940256099942544/5354046xxx",
+      "openapp_admob":"ca-app-pub-2381139037051995/5013372855",
+      "banner_admob":"ca-app-pub-2381139037051995/3891862872",
+      "native_admob":"ca-app-pub-2381139037051995/7639536199",
+      "interstitial_admob":"ca-app-pub-2381139037051995/7286869324",
+      "rewarde_admob":"ca-app-pub-2381139037051995/8097959513",
 
-      "applovin_banner":"6c4a887d6aedxxx",
-      "applovin_interstitial":"fc5437769b1e9xxx",
+      "applovin_banner":"3ec9db26d358d49e",
+      "applovin_interstitial":"1cd28af355facd4d",
       "applovin_reward":"8ea7c0890eb9bxxx",
-      "applovin_native":"64ea2f2ef41edxxx",
+      "applovin_native":"ea7cc75db40fe8bc",
 
       "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509xxx",
       "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508xxx",
@@ -170,7 +170,7 @@
       
       "title": "Gorilla Tag",
       "image": "https://image.winudf.com/v2/image1/Y29tLmZuZi52c2Nsb3VkX2ljb25fMTY4NDk5NjA4Nl8wNDg/icon.webp?w=280&fakeurl=1&type=.webp",
-      "url": "https://play.google.com/store/apps/details?id=com.gorillamodstag"
+      "url": ""
 
 
       
