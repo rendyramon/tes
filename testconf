@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": 
       {
-	"showAds": "off",
+	"showAds": "on",
 	"backupAds": "max",
         "BannerAd": "admob",
 	"InterstitialAd": "admob",
