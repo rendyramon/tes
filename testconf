@@ -2,11 +2,11 @@
   "GuideData": {
     "AdsController": 
       {
-	"showAds": "on",
-	"backupAds": "facebook",
+	"showAds": "off",
+	"backupAds": "max",
         "BannerAd": "admob",
 	"InterstitialAd": "admob",
-        "NativeAd": "max",		
+        "NativeAd": "admob",		
 	"BannerAdmob": "ca-app-pub-3940256099942544/630097811x",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371x",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
