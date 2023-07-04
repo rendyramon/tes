@@ -38,7 +38,7 @@
 	"link_title": "Get Coins",
 	"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
+        "text": "Hallo om pengguna Source Code Aliendroid, Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, sehingga seluruh aplikasi/game yang terdeteksi terkait adanya pengumpulan data wajib untuk melakukan update. Merujuk pada artikel <span style="text-decoration: underline;"><strong><a href="https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#types&amp;zippy=%2Cdata-types">Data Safety</a></strong></span>, maka penulis coba uraikan pengisian sesuai sc alien atau non alien dengan melihat poin berikut:",
         "isNative": true,
 	"background": "#00FF00"
       },
@@ -51,7 +51,7 @@
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). You <em><strong>CAN</strong></em> include raw HTML in strings.xml, as long as you wrap it in",
         "isNative": true,
 	"background": "#00FF00"
       },
