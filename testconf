@@ -54,7 +54,7 @@
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
-        "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). You <em><strong>CAN</strong></em> include raw HTML in strings.xml, as long as you wrap it in",
+        "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). ",
         "isNative": true,
 	"background": "#00FF00"
       },
