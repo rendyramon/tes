@@ -3,9 +3,9 @@
     "AdsController": 
       {
 	"showAds": "on",
-	"backupAds": "max",
-        "BannerAd": "admob",
-	"InterstitialAd": "admob",
+	"backupAds": "admob",
+        "BannerAd": "max",
+	"InterstitialAd": "max",
         "NativeAd": "admob",		
 	"BannerAdmob": "ca-app-pub-3940256099942544/630097811x",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371x",
