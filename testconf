@@ -9,7 +9,7 @@
         "NativeAd": "admob",
 	"intervalAdsClick": 2,
 	"BannerAdmob": "ca-app-pub-3940256099942544/630097811x",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371x",
         "NativeAdmob": "ca-app-pub-3940256099942544/224769611x",
 	"maxBanner": "6db1491f2e21970c",
 	"maxInterstitial": "812b82d9e0c7cb7f",
