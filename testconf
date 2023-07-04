@@ -3,7 +3,7 @@
     "AdsController": 
       {
 	"showAds": "on",
-	"statusApp": "on",
+	"statusApp": "off",
 	"bannerOwn": "on",
 	"appupdate": "com.mutantzombie.apocalypsemod",
 	"backupAds": "facebook",
