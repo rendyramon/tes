@@ -3,7 +3,7 @@
     "AdsController": 
       {
 	"showAds": "on",
-	"backupAds": "max",
+	"backupAds": "facebook",
         "BannerAd": "admob",
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
