@@ -10,7 +10,7 @@
         "BannerAd": "admob",
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
-	"intervalAdsClick": 2,
+	"intervalAdsClick": 1,
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
@@ -57,7 +57,7 @@
         "image_link": "",
         "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). ",
         "isNative": true,
-	"background": "#00FF00"
+	"background": "#222222"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -68,7 +68,7 @@
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "there's a nicer alternative that's not documented",
         "isNative": false,
 	"background": "#00FF00"
       },
@@ -81,9 +81,9 @@
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "after searching for hours, and finally found it",
         "isNative": false,
-	"background": "#00FF00"
+	"background": "#dfdfdf"
       },
       {
         "title": "Bloody Mary",
