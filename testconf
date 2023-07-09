@@ -13,7 +13,7 @@
 	"OpenAds": "admob",
 	"intervalAdsClick": 1,
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371x",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 	"openAdmob": "ca-app-pub-3940256099942544/3419835294",
 	"maxBanner": "6db1491f2e21970c",
