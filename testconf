@@ -6,7 +6,7 @@
 	"statusApp": "on",
 	"bannerOwn": "on",
 	"appupdate": "com.mutantzombie.apocalypsemod",
-	"backupAds": "unity",
+	"backupAds": "max",
         "BannerAd": "admob",
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
