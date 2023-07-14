@@ -6,10 +6,10 @@
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
       "show_cpa":false,
-      "backupAds":"applovin",
-      "interval": 2,
+      "backupAds":"facebook",
+      "interval": 1,
       "statusapp": "1",
-      "ad_status":"off",
+      "ad_status":"on",
       "link_redirect": "",
       "appupdate": "",
       "bannerOwn": "0",
@@ -19,7 +19,7 @@
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"admob",
+      "banner_type":"facebook",
       "inter_type":"admob",
       "native_type":"admob",
       "reward_type":"admob",
@@ -45,10 +45,10 @@
       "applovin_reward":"8ea7c0890eb9bxxx",
       "applovin_native":"ea7cc75db40fe8bx",
 
-      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509xxx",
-      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508xxx",
+      "facebook_banner":"1661462531019395_1661463547685960",
+      "facebook_interstitial":"1661462531019395_1661463804352601",
       "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842xxx"
+      "facebook_native":"1661462531019395_1661463944352587"
 
   
     },
