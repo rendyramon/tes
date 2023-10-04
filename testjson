@@ -7,7 +7,7 @@
             "appupdate": "com.mutantzombie.apocalypsemod",
             "backupAds": "facebook",
             "BannerAd": "admob",
-            "InterstitialAd": "max",
+            "InterstitialAd": "admob",
             "NativeAd": "admob",
             "OpenAds": "admob",
             "intervalAdsClick": 2,
