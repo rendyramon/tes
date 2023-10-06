@@ -10,6 +10,7 @@
             "InterstitialAd": "max",
             "NativeAd": "max",
             "OpenAds": "admob",
+            "NativeAdStyle": "Small",
             "intervalAdsClick": 2,
             "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
             "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
