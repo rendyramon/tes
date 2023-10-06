@@ -41,7 +41,7 @@
                 "title": "Dark Meadow: The Pact",
                 "image": "https://usercontent2.hubstatic.com/6961601.jpg",
                 "color": "#000000",
-                "text_size": "25",
+                "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://www.google.com",
@@ -56,8 +56,8 @@
                 "color": "#FFFFFF",
                 "text_size": "20",
                 "isLink": false,
-                "link_title": "",
-                "setLink": "",
+                "link_title": "Download Mod",
+                "setLink": "https://www.google.com",
                 "image_link": "",
                 "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). ",
                 "isNative": true,
@@ -87,33 +87,33 @@
                 "image_link": "",
                 "text": "after searching for hours, and finally found it",
                 "isNative": false,
-                "background": "#dfdfdf"
+                "background": "#CD5C08"
             },
             {
                 "title": "Bloody Mary",
                 "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
                 "color": "#FFFFFF",
-                "text_size": "25",
+                "text_size": "20",
                 "isLink": false,
                 "link_title": "",
                 "setLink": "",
                 "image_link": "",
                 "text": "Dark Meadow : The Pact",
                 "isNative": false,
-                "background": "#00FF00"
+                "background": "#C1D8C3"
             },
             {
                 "title": "Twisted Lands: Shadow Town",
                 "image": "https://usercontent1.hubstatic.com/6961620.jpg",
                 "color": "#FFFFFF",
-                "text_size": "25",
+                "text_size": "20",
                 "isLink": false,
                 "link_title": "",
                 "setLink": "",
                 "image_link": "",
                 "text": "Dark Meadow : The Pact",
                 "isNative": false,
-                "background": "#00FF00"
+                "background": "#F5E8B7"
             }
         ]
     }
