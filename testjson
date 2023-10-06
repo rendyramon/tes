@@ -5,7 +5,7 @@
             "statusApp": "on",
             "bannerOwn": "on",
             "appupdate": "com.mutantzombie.apocalypsemod",
-            "backupAds": "facebook",
+            "backupAds": "max",
             "BannerAd": "max",
             "InterstitialAd": "max",
             "NativeAd": "max",
