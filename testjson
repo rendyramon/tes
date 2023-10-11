@@ -11,7 +11,7 @@
             "NativeAd": "facebook",
             "OpenAds": "admob",
             "NativeAdStyle": "small",
-            "intervalAdsClick": 2,
+            "intervalAdsClick": 1,
             "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
             "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
             "BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
