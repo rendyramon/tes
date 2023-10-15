@@ -1,0 +1,55 @@
+{
+    "id": 1,
+    "app_open_ads": {
+        "Adx": "ca-app-pub-3940256099942544/3419835294",
+        "Facebook": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+        "Admob": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "banner_ads": {
+        "Adx": "ca-app-pub-3940256099942544/6300978111",
+        "Facebook": "null",
+        "Admob": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "native_ads": {
+        "Adx": "ca-app-pub-3940256099942544/2247696110",
+        "Facebook": "IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650",
+        "Admob": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "interstitial_ads": {
+        "Adx": "ca-app-pub-3940256099942544/1033173712",
+        "Facebook": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+        "Admob": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "rewarded_ads": {
+        "Adx": "ca-app-pub-3940256099942544/5224354917",
+        "Facebook": "null",
+        "Admob": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "mobile_sticky_ads": {
+        "Adx": "null",
+        "Facebook": "null",
+        "Admob": ""
+    },
+    "collapsible_ads": {
+        "Adx": "ca-app-pub-3940256099942544/2014213617",
+        "Facebook": "null",
+        "Admob": "ca-app-pub-3940256099942544/2014213617"
+    },
+    "version_name": "1.0",
+    "app_name": "Charging Animation & Themes",
+    "package_name": "com.batterycharging.animationscreen.charginganimationeffects",
+    "show_ads": true,
+    "ads_type": "Admob",
+    "ads_count": 0,
+    "ads_open_type": "app open ads",
+    "testads_platform": "Adx",
+    "button_bg": "#ffffff",
+    "button_text_color": "#080640",
+    "common_text_color": "#ffffff",
+    "ads_bg": "#080640",
+    "custom_ads_json": {},
+    "extra_data_field": {},
+    "backpress_ads_type": "app open ads",
+    "backpress_count": 0,
+    "ads_sequence_type": "Random Ads"
+}
