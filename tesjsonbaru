@@ -11,7 +11,7 @@
     "app_adShowStatus":"1",
     "app_AppOpenAdStatus":"0",
     "app_howShowAdInterstitial":"0",
-    "app_adPlatformSequenceInterstitial":"Admob1,Admob2,Admob3,Qureka",
+    "app_adPlatformSequenceInterstitial":"Admob1,Facebookaudiencenetwork,Admob2,Qureka",
     "app_alernateAdShowInterstitial":"",
     "ADTYPE":"ON-OFF",
     "NATIVEBANNER":"NATIVE",
@@ -87,9 +87,9 @@
     "Facebookaudiencenetwork":{
       "ad_showAdStatus":"1",
       "ad_loadAdIdsType":"0",
-      "Banner1":"ca-app-pub-3940256099942544\/6300978111",
-      "Interstitial1":"ca-app-pub-3940256099942544\/1033173712",
-      "Native1":"ca-app-pub-3940256099942544\/2247696110",
+      "Banner1":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+      "Interstitial1":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+      "Native1":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
       "NativeBanner1":"ca-app-pub-3940256099942544\/2247696110"
     }
   },
