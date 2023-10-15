@@ -9,18 +9,18 @@
     },
     "banner_ads": {
         "Adx": "",
-        "Facebook": "null",
+        "Facebook": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "Admob": "ca-app-pub-3940256099942544/6300978111"
 
     },
     "native_ads": {
         "Adx": "",
-        "Facebook": "969044590993924_969059920992391",
+        "Facebook": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
         "Admob": "ca-app-pub-3940256099942544/2247696110"
     },
     "interstitial_ads": {
         "Adx": "",
-        "Facebook": "969044590993924_969059854325731",
+        "Facebook": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
         "Admob": "ca-app-pub-3940256099942544/1033173712"
     },
     "rewarded_ads": {},
@@ -38,6 +38,6 @@
     "ads_open_type": "interstitial ads",
     "ads_type": "Main Ads",
     "version_name": "1.0",
-    "monetize_platform": "Admob",
+    "monetize_platform": "Admob, Facebook",
     "ads_sequence_type": "Random Ads"
 }
