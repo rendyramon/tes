@@ -12,7 +12,7 @@
         "app_needInternet": "0",
         "app_updateAppDialogStatus": "1",
         "app_versionCode": "4",
-        "app_redirectOtherAppStatus": "0",
+        "app_redirectOtherAppStatus": "1",
         "app_newPackageName": "com.lutech.flashlight",
         "app_dialogBeforeAdShow": "0",
         "app_adShowStatus": "1",
