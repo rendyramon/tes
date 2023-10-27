@@ -1,22 +1,23 @@
 {
-    "GuideData": {
-        "AdsController": {
+    "Ads": [
+        {
             "showAds": "on",
             "statusApp": "on",
             "bannerOwn": "on",
             "appupdate": "com.mutantzombie.apocalypsemod",
+            "app_versionCode": 1,
             "backupAds": "facebook",
-            "BannerAd": "facebook",
+            "BannerAd": "admob",
             "InterstitialAd": "admob",
-            "NativeAd": "admob",
+            "NativeAd": "facebook",
             "OpenAds": "admob",
             "NativeAdStyle": "small",
             "intervalAdsClick": 1,
             "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
             "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-            "BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+            "BannerAdmob2": "ca-app-pub-3940256099942544/9214589741",
             "InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-            "NativeAdmob": "ca-app-pub-3940256099942544/224769611x",
+            "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
             "openAdmob": "ca-app-pub-3940256099942544/3419835294",
             "maxBanner": "b446c0b50be17491",
             "maxInterstitial": "688688e085baad99",
@@ -36,86 +37,108 @@
             "ImageBanner": false,
             "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
             "ImageBannerURL": "https://www.google.com"
+        }
+    ],
+    "DATA": [
+        {
+            "title": "Dark Meadow: The Pact",
+            "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+            "color": "#000000",
+            "text_size": "20",
+            "isLink": true,
+            "link_title": "Download Mod",
+            "setLink": "https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Marcopolo%20Paradiso%201800DD.bussidmod",
+            "image_link": "https://www.google.com",
+            "text": "Hallo om pengguna Source Code Aliendroid, Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, sehingga seluruh aplikasi/game yang terdeteksi terkait adanya pengumpulan data wajib untuk melakukan update.",
+            "isNative": true,
+            "background": "#00FF00"
         },
-        "items": [
-            {
-                "title": "Dark Meadow: The Pact",
-                "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-                "color": "#000000",
-                "text_size": "20",
-                "isLink": true,
-                "link_title": "Download Mod",
-                "setLink": "https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Marcopolo%20Paradiso%201800DD.bussidmod",
-                "image_link": "https://www.google.com",
-                "text": "Hallo om pengguna Source Code Aliendroid, Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, sehingga seluruh aplikasi/game yang terdeteksi terkait adanya pengumpulan data wajib untuk melakukan update.",
-                "isNative": true,
-                "background": "#00FF00"
-            },
-            {
-                "title": "The Old 2",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-                "color": "#FFFFFF",
-                "text_size": "20",
-                "isLink": true,
-                "link_title": "Get Livery",
-                "setLink": "https://www.dropbox.com/s/jiluwfsu8wt13on/Setra%20Nusgem%20V2.png?dl=1",
-                "image_link": "https://www.dropbox.com/s/jiluwfsu8wt13on/Setra%20Nusgem%20V2.png?dl=1",
-                "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). ",
-                "isNative": true,
-                "background": "#222222"
-            },
-            {
-                "title": "Call of Cthulhu: Wasted Land ",
-                "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-                "color": "#FFFFFF",
-                "text_size": "20",
-                "isLink": false,
-                "link_title": "",
-                "setLink": "",
-                "image_link": "",
-                "text": "there's a nicer alternative that's not documented",
-                "isNative": false,
-                "background": "#00FF00"
-            },
-            {
-                "title": "Dead Space Android",
-                "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-                "color": "#FFFFFF",
-                "text_size": "25",
-                "isLink": false,
-                "link_title": "",
-                "setLink": "",
-                "image_link": "",
-                "text": "after searching for hours, and finally found it",
-                "isNative": false,
-                "background": "#CD5C08"
-            },
-            {
-                "title": "Bloody Mary",
-                "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-                "color": "#FFFFFF",
-                "text_size": "20",
-                "isLink": false,
-                "link_title": "",
-                "setLink": "",
-                "image_link": "",
-                "text": "Dark Meadow : The Pact",
-                "isNative": false,
-                "background": "#C1D8C3"
-            },
-            {
-                "title": "Twisted Lands: Shadow Town",
-                "image": "https://usercontent1.hubstatic.com/6961620.jpg",
-                "color": "#FFFFFF",
-                "text_size": "20",
-                "isLink": false,
-                "link_title": "",
-                "setLink": "",
-                "image_link": "",
-                "text": "Dark Meadow : The Pact",
-                "isNative": false,
-                "background": "#F5E8B7"
-            }
-        ]
-    }
+        {
+            "title": "The Old 2",
+            "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+            "color": "#FFFFFF",
+            "text_size": "20",
+            "isLink": true,
+            "link_title": "Get Livery",
+            "setLink": "https://www.dropbox.com/s/jiluwfsu8wt13on/Setra%20Nusgem%20V2.png?dl=1",
+            "image_link": "https://www.dropbox.com/s/jiluwfsu8wt13on/Setra%20Nusgem%20V2.png?dl=1",
+            "text": "Just in case anybody finds this, there's a nicer alternative that's not documented (I tripped over it after searching for hours, and finally found it in the bug list for the Android SDK itself). ",
+            "isNative": true,
+            "background": "#222222"
+        },
+        {
+            "title": "Call of Cthulhu: Wasted Land ",
+            "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+            "color": "#FFFFFF",
+            "text_size": "20",
+            "isLink": false,
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "there's a nicer alternative that's not documented",
+            "isNative": false,
+            "background": "#00FF00"
+        },
+        {
+            "title": "Dead Space Android",
+            "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+            "color": "#FFFFFF",
+            "text_size": "25",
+            "isLink": false,
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "after searching for hours, and finally found it",
+            "isNative": false,
+            "background": "#CD5C08"
+        },
+        {
+            "title": "Bloody Mary",
+            "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+            "color": "#FFFFFF",
+            "text_size": "20",
+            "isLink": false,
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Dark Meadow : The Pact",
+            "isNative": false,
+            "background": "#C1D8C3"
+        },
+        {
+            "title": "Twisted Lands: Shadow Town",
+            "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+            "color": "#FFFFFF",
+            "text_size": "20",
+            "isLink": false,
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Dark Meadow : The Pact",
+            "isNative": false,
+            "background": "#F5E8B7"
+        }
+    ],
+    "Apps": [
+        {
+            "title": "Toilet Man Scary Prank Sounds",
+            "image": "https://play-lh.googleusercontent.com/-oGtI4PqRLbRzPO7wXIhHe3CRIs4CKTZ07mby1nGnw1KN0FZUBo7rzw5vesyWHqE5io=w240-h480-rw",
+            "url": "https://play.google.com/store/apps/details?id=com.testingmod.lifeshadermod"
+        },
+        {
+            "title": "Skibidi Toilet",
+            "image": "https://play-lh.googleusercontent.com/8KV7sZuN7W5hNoHCGoAmKUEnDxY_eENdAeOzwckobINfLSUaMvvGP3xxsOFF1WfaZNRT=w240-h480-rw",
+            "url": "https://play.google.com/store/apps/details?id=com.ponyaddon.unicornmodmcpe"
+        },
+        {
+            "title": "Spider Skibidi Toilet",
+            "image": "https://play-lh.googleusercontent.com/-TziZhmNWGUSvLv79VlGE4KkueG0jeMvBfXKZp0MnmhNLr9A8qDOwLJyItmydV-SRQ=w240-h480-rw",
+            "url": "https://play.google.com/store/apps/details?id=com.jurassiccraft.dinosaursmod"
+        },
+        {
+            "title": "Garten Banban 4 for MCPE",
+            "image": "https://play-lh.googleusercontent.com/aCU6II2lCwNbR7tBR9y3VpORnb5ZwrvkB3H1kkup5jksrnJWhoTg_ihA2cs0ytsuS5k=w240-h480-rw",
+            "url": "https://play.google.com/store/apps/details?id=com.mutantzombie.apocalypsemod"
+        }
+    ]
 }
